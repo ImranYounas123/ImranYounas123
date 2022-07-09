@@ -1,3 +1,7 @@
+<!-- <img src="https://github.com/NumanAnees/NumanAnees/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Numan Anees</a>👨‍💻</h1>
+<!-- # Numan Anees 👨‍💻 -->
+
 <img src="https://raw.githubusercontent.com/NumanAnees/NumanAnees/main/hello.gif" alt = "hello" width="440px" height="140px" margin="auto">
 <!-- <img src="https://raw.githubusercontent.com/NumanAnees/NumanAnees/main/hello.gif" alt = "hello" width="40px" height="40px"> -->
 <h1 align="center">Hi 👋, I'm Imran Younas</h1>
