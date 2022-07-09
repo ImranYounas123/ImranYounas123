@@ -2,10 +2,6 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Imran Younas</a>👨‍💻</h1>
 <!-- # Imran Younas 👨‍💻 -->
 
-<img src="https://raw.githubusercontent.com/NumanAnees/NumanAnees/main/hello.gif" alt = "hello" width="440px" height="140px" margin="auto">
-<!-- <img src="https://raw.githubusercontent.com/NumanAnees/NumanAnees/main/hello.gif" alt = "hello" width="40px" height="40px"> -->
-<h1 align="center">Hi 👋, I'm Imran Younas</h1>
-
 - 🔭 I’m currently working on Django project
 - 🌱 I’m currently learning Django API
 - 👯 I’m looking to collaborate on opern Source
